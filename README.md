@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/reigen0" target="_blank">Daniil</a> 
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REIGEN06">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REIGEN06">
+<p align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer.+Dubna+city"></p>
+<div><img width="36.5%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=REIGEN06&layout=compact&theme=tokyonight">
+<img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=REIGEN06&theme=tokyonight&show_icons=true&hide=stars,issues"></div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REIGEN06&theme=tokyo-night">
 <!--
 **REIGEN06/REIGEN06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
