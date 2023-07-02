@@ -1,4 +1,4 @@
-<h1 align="center">Прив, меня зовут<a href="https://vk.com/reigen0" target="_blank">Даня</a> 
+<h1 align="center">Прив, меня зовут<a href="https://vk.com/reigen0" target="_blank"> Даня</a> 
 <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+ОБЫЧНЫЙ+ЧЕЛ+(РАБОТЯГА)"></p>
